@@ -1,5 +1,5 @@
 # eshop
-# eshopdjango.github.io
+
 use these pip requirements
 asgiref==3.2.7
 astroid==2.4.1
@@ -14,4 +14,4 @@ pytz==2020.1
 six==1.15.0
 sqlparse==0.3.1
 toml==0.10.1
-
+wrapt==1.12.1
